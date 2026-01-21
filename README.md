@@ -47,6 +47,6 @@ Follow the steps below to download and extract the slide decks.
 5. When prompted, **enter the password** provided by the instructor.
 6. Click **OK**.
 
-✅ After extraction, you’ll see the PowerPoint slide deck(s) ready to open.
+✅ After extract, you’ll see the PowerPoint slide deck ready to open.
 
 ---
