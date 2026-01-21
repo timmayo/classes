@@ -42,8 +42,6 @@ Follow the steps below to download and extract the slide decks.
 1. Locate the downloaded `.7z` file on your computer.
 2. **Right‑click** the file.
 3. Select **7‑Zip → Extract Here**  
-   *or*  
-   **7‑Zip → Extract to "Class-Slides\"**
 4. When prompted, **enter the password** provided by the instructor.
 5. Click **OK**.
 
