@@ -33,7 +33,8 @@ Follow the steps below to download and extract the slide decks.
 1. In this GitHub repository, go to the folder of the class and locate the `.7z` files (for example: `Module 1 - Overview.7z`).
 2. Click the file name.
 3. Click **Download**.
-4. Save the file to a location you can easily find (e.g. **Downloads** or **Desktop**).
+   ![Download file](/images/download.png "Download")
+5. Save the file to a location you can easily find (e.g. **Downloads** or **Desktop**).
 
 ---
 
@@ -41,9 +42,10 @@ Follow the steps below to download and extract the slide decks.
 
 1. Locate the downloaded `.7z` file on your computer.
 2. **Right‑click** the file.
-3. Select **7‑Zip → Extract Here**  
-4. When prompted, **enter the password** provided by the instructor.
-5. Click **OK**.
+3. Select **7‑Zip → Extract Here**
+   ![Extract file](/images/extract.png "Extract")  
+5. When prompted, **enter the password** provided by the instructor.
+6. Click **OK**.
 
 ✅ After extraction, you’ll see the PowerPoint slide deck(s) ready to open.
 
