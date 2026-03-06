@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Class Materials</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+            text-align: center;
+            max-width: 400px;
+            width: 90%;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 30px;
+        }
+        input {
+            width: 100%;
+            padding: 12px;
+            margin-bottom: 15px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            box-sizing: border-box;
+            font-size: 16px;
+        }
+        button {
+            width: 100%;
+            padding: 12px;
+            background: #667eea;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        button:hover {
+            background: #764ba2;
+        }
+        .error {
+            color: red;
+            margin-top: 10px;
+        }
+        .materials {
+            display: none;
+            text-align: left;
+        }
+        .materials h2 {
+            margin-top: 0;
+            color: #333;
+        }
+        .material-item {
+            margin-bottom: 15px;
+            padding: 15px;
+            background: #f5f5f5;
+            border-radius: 5px;
+        }
+        .material-item a {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .material-item a:hover {
+            text-decoration: underline;
+        }
+        .logout-btn {
+            margin-top: 20px;
+            background: #999;
+        }
+        .logout-btn:hover {
+            background: #777;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div id="loginForm">
+            <h1>Class Materials</h1>
+            <p>Enter the password provided in class to access materials.</p>
+            <input type="password" id="passwordInput" placeholder="Enter password">
+            <button onclick="checkPassword()">Access Materials</button>
+            <div id="error"></div>
+        </div>
+
+        <div id="materials" class="materials">
+            <h2 id="className"></h2>
+            <div id="materialsList"></div>
+            <button class="logout-btn" onclick="logout()">Logout</button>
+        </div>
+    </div>
+
+    <script>
+        // CUSTOMIZE THIS SECTION
+        const classes = {
+            "3BrownBananas?": {
+                name: "Power Apps for Power Users",
+                materials: [
+                    { title: "Slides", url: "https://github.com/timmayo/classes/releases/tag/power-app-for-power-users" }
+                ]
+            },
+            "5RedApples!": {
+                name: "Power Automate for Power Users",
+                materials: [
+                    { title: "Slides", url: "https://github.com/timmayo/classes/releases/tag/power-automate-for-power-users" }
+                ]
+            },
+            "7YellowPears!": {
+                name: "Power Platform for Administrators",
+                materials: [
+                    { title: "Slides", url: "https://github.com/YOUR-USERNAME/teaching-materials/releases/download/phys-301-lecture-1/lecture-1.pptx" }
+                ]
+            }
+        };
+
+        function checkPassword() {
+            const input = document.getElementById("passwordInput").value;
+            const errorDiv = document.getElementById("error");
+
+            if (classes[input]) {
+                // Password is correct
+                const classData = classes[input];
+                document.getElementById("className").textContent = classData.name;
+                
+                // Build the materials list
+                let materialsHTML = "";
+                classData.materials.forEach(material => {
+                    materialsHTML += `
+                        <div class="material-item">
+                            <strong>${material.title}</strong><br>
+                            <a href="${material.url}" download>Download Slides</a>
+                        </div>
+                    `;
+                });
+                document.getElementById("materialsList").innerHTML = materialsHTML;
+
+                document.getElementById("loginForm").style.display = "none";
+                document.getElementById("materials").style.display = "block";
+                errorDiv.textContent = "";
+            } else {
+                errorDiv.textContent = "Incorrect password. Try again.";
+            }
+        }
+
+        function logout() {
+            document.getElementById("loginForm").style.display = "block";
+            document.getElementById("materials").style.display = "none";
+            document.getElementById("passwordInput").value = "";
+        }
+
+        // Allow Enter key to submit
+        document.getElementById("passwordInput").addEventListener("keypress", function(e) {
+            if (e.key === "Enter") checkPassword();
+        });
+    </script>
+</body>
+</html>
