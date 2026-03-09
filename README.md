@@ -1,9 +1,12 @@
 # Teaching Materials
 
-This repository contains lecture slides and materials for my classes.
+This repository contains lecture slides and course materials for my classes.
 
-## Courses
-- **Class Name 1** - [Access Slides](link-we'll-create-later)
-- **Class Name 2** - [Access Slides](link-we'll-create-later)
+## Access Course Materials
 
-To access the files, you'll need the password provided in class.
+Visit my [class materials portal](#) to download slides (you'll need the password provided in class).
+
+### Courses
+- Power Apps for Power Users
+- Power Automate for Power Users
+- Power Platform for Admins
