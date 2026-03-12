@@ -4,7 +4,7 @@ This repository contains lecture slides and course materials for my classes.
 
 ## Access Course Materials
 
-Visit my [class materials portal](https://timmayo.github.io/classes/) to download slides (you'll need the password provided in class).
+Visit my [class materials portal](https://timmayo.github.io/classes/) to download slides (you will need the password provided in class).
 
 ### Courses
 - [Power Apps for Power Users](https://github.com/timmayo/classes/blob/main/datasheet/WorkshopPLUS-Power-Platform-Power-Apps-for-Power-User-1-Day.pdf)
