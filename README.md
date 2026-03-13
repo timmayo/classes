@@ -15,6 +15,6 @@ Visit my [class materials portal](https://timmayo.github.io/classes/) to downloa
 - [Power Platform for Administrators](https://github.com/timmayo/classes/blob/main/datasheet/WorkshopPLUS-Power-Platform-for-Administrators-3-days.pdf)
 - [Power Platform Governance with COE](https://github.com/timmayo/classes/blob/main/datasheet/Activate-Power-Platform-Governance-with-COE.pdf)
 
-### Help Videos
+### How-to Videos
 - [Sign into Learning on Demand (LOD)](https://youtu.be/RDD0rvl9_Sg)
-- [Setting up MFA]()
+- [Set up MFA]()
