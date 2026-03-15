@@ -6,6 +6,10 @@ This repository contains lecture slides and course materials for my classes.
 
 Visit my [class materials portal](https://timmayo.github.io/classes/) to download slides (you will need the password provided in class).
 
+### How-to Videos
+- [Sign into Learning on Demand (LOD)](https://youtu.be/RDD0rvl9_Sg)
+- [Set up MFA]()
+
 ### Courses
 - [Power Apps for Power Users](https://github.com/timmayo/classes/blob/main/datasheet/WorkshopPLUS-Power-Platform-Power-Apps-for-Power-User-1-Day.pdf)
 - [Power Automate for Power Users](https://github.com/timmayo/classes/blob/main/datasheet/WorkshopPLUS-Power-Platform-Power-Automate-Power-User-1-Day.pdf)
@@ -15,6 +19,3 @@ Visit my [class materials portal](https://timmayo.github.io/classes/) to downloa
 - [Power Platform for Administrators](https://github.com/timmayo/classes/blob/main/datasheet/WorkshopPLUS-Power-Platform-for-Administrators-3-days.pdf)
 - [Power Platform Governance with COE](https://github.com/timmayo/classes/blob/main/datasheet/Activate-Power-Platform-Governance-with-COE.pdf)
 
-### How-to Videos
-- [Sign into Learning on Demand (LOD)](https://youtu.be/RDD0rvl9_Sg)
-- [Set up MFA]()
