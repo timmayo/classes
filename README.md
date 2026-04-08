@@ -8,7 +8,7 @@ Visit my [class materials portal](https://timmayo.github.io/classes/) to downloa
 
 ### How-to Videos
 - [Sign into Learning on Demand (LOD)](https://youtu.be/RDD0rvl9_Sg)
-- [Set up MFA]()
+- [Set up MFA for the labs](https://youtu.be/fuzqspE_-to?si=kMqbGtzwEzA_rzWX)
 
 ### Courses
 - [Power Apps for Power Users](https://github.com/timmayo/classes/blob/main/datasheet/WorkshopPLUS-Power-Platform-Power-Apps-for-Power-User-1-Day.pdf)
