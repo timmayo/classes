@@ -4,11 +4,11 @@ Hi there, and welcome 👋! You'll find everything you need for my classes on th
 
 ## 🚀 Getting Started
 
-### 1. Log in to Skillable (VMs for class)
-Go to the Learning Campus: [mslearningcampus.com/User/Login](https://mslearningcampus.com/User/Login)
-
-### 2. Access Course Materials
+### 1. Access Course Materials
 Visit my [class materials portal](https://timmayo.github.io/classes/) to download slides. You'll need the 🔑 password provided in class.
+
+### 2. Log in to Skillable (VMs for class)
+Go to the Learning Campus: [mslearningcampus.com/User/Login](https://mslearningcampus.com/User/Login)
 
 ## 📹 How-to Videos
 
