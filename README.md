@@ -1,25 +1,28 @@
 # Teaching Materials
 
-Lecture slides and course materials for classes that I deliver.
+Hi there, and welcome 👋! You'll find everything you need for my classes on this page.
 
-## Login to Skillable (VMs for class)
+## 🚀 Getting Started
 
-Go to the Learning Campus at [https://mslearningcampus.com/User/Login](https://mslearningcampus.com/User/Login)
+### 1. Log in to Skillable (VMs for class)
+Go to the Learning Campus: [mslearningcampus.com/User/Login](https://mslearningcampus.com/User/Login)
 
-## Access Course Materials
+### 2. Access Course Materials
+Visit my [class materials portal](https://timmayo.github.io/classes/) to download slides. You'll need the 🔑 password provided in class.
 
-Visit my [class materials portal](https://timmayo.github.io/classes/) to download slides (you will need the password provided in class).
+## 📹 How-to Videos
 
-### How-to Videos
 - [Sign into Learning on Demand (LOD)](https://youtu.be/RDD0rvl9_Sg)
 - [Set up MFA for the labs](https://youtu.be/fuzqspE_-to?si=kMqbGtzwEzA_rzWX)
 
-### Courses
-- [Power Apps for Power Users](https://github.com/timmayo/classes/blob/main/datasheet/WorkshopPLUS-Power-Platform-Power-Apps-for-Power-User-1-Day.pdf)
-- [Power Automate for Power Users](https://github.com/timmayo/classes/blob/main/datasheet/WorkshopPLUS-Power-Platform-Power-Automate-Power-User-1-Day.pdf)
-- [Power Platform AI Builder](https://github.com/timmayo/classes/blob/main/datasheet/Activate-Power-Platform-AI-Builder.pdf)
-- [Power Platform ALM with Dataverse](https://github.com/timmayo/classes/blob/main/datasheet/WorkshopPLUS-Power-Platform-ALM-with-Dataverse-1-Day.pdf)
-- [Power Platform Copilot Studio](https://github.com/timmayo/classes/blob/main/datasheet/WorkshopPLUS-Power-Platform-Copilot-Studio.pdf)
-- [Power Platform for Administrators](https://github.com/timmayo/classes/blob/main/datasheet/WorkshopPLUS-Power-Platform-for-Administrators-3-days.pdf)
-- [Power Platform Governance with COE](https://github.com/timmayo/classes/blob/main/datasheet/Activate-Power-Platform-Governance-with-COE.pdf)
+## 📚 Courses
 
+| Course | Datasheet |
+|---|---|
+| Power Apps for Power Users | [PDF](https://github.com/timmayo/classes/blob/main/datasheet/WorkshopPLUS-Power-Platform-Power-Apps-for-Power-User-1-Day.pdf) |
+| Power Automate for Power Users | [PDF](https://github.com/timmayo/classes/blob/main/datasheet/WorkshopPLUS-Power-Platform-Power-Automate-Power-User-1-Day.pdf) |
+| Power Platform AI Builder | [PDF](https://github.com/timmayo/classes/blob/main/datasheet/Activate-Power-Platform-AI-Builder.pdf) |
+| Power Platform ALM with Dataverse | [PDF](https://github.com/timmayo/classes/blob/main/datasheet/WorkshopPLUS-Power-Platform-ALM-with-Dataverse-1-Day.pdf) |
+| Power Platform Copilot Studio | [PDF](https://github.com/timmayo/classes/blob/main/datasheet/WorkshopPLUS-Power-Platform-Copilot-Studio.pdf) |
+| Power Platform for Administrators | [PDF](https://github.com/timmayo/classes/blob/main/datasheet/WorkshopPLUS-Power-Platform-for-Administrators-3-days.pdf) |
+| Power Platform Governance with CoE | [PDF](https://github.com/timmayo/classes/blob/main/datasheet/Activate-Power-Platform-Governance-with-COE.pdf) |
