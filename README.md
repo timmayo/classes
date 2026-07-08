@@ -1,6 +1,10 @@
 # Teaching Materials
 
-This repository contains lecture slides and course materials for my classes.
+Lecture slides and course materials for classes that I deliver.
+
+## Login to Skillable (VMs for class)
+
+Go to the Learning Campus at [https://mslearningcampus.com/User/Login](https://mslearningcampus.com/User/Login)
 
 ## Access Course Materials
 
